@@ -2,14 +2,15 @@
 
 <img src="img/logo.png"/>
 
-Repositorio dedicado a la realización del proyecto de 1ºDAM para el desarollo de una wikipedia de Star Wars.
+Repository dedicate to realize the 1ºDAM project to develop an app 
+called Star Wars Wiki, so that you can use to ask about Star War's World.
 
-## Desarolladores: 
+## Developers: 
 
 - Melisa Ruiz González
 - Eduardo González Expósito
 
-## Indice
+## Index
 
-- [Anteproyecto](anteproyecto)
-- [Diagramas](diagramas)
+- [Pre-Project](pre-project)
+- [Diagrams](diagrams)
