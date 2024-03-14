@@ -19,7 +19,7 @@
 
 ### Goal <a name="goal"></a>
 
-- We target are create an app to ask about Star War's World, 
+- Our goal is create an app to ask about Star Wars World, 
   so that anyone can find information about characters, naves, 
   movies, series, etc. 
 
