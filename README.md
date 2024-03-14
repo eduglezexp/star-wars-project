@@ -2,8 +2,8 @@
 
 <img src="img/logo.png"/>
 
-Repository dedicate to realize the 1ºDAM project to develop an app 
-called Star Wars Wiki, so that you can use to ask about Star Wars World.
+Repository dedicated to realize the 1ºDAM project to develop an app 
+called Star Wars Wiki, so you can use it to ask about Star Wars World.
 
 ## Developers: 
 
